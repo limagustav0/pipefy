@@ -6,7 +6,7 @@ import traceback
 
 
 # token
-pipefy_token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJ1c2VyIjp7ImlkIjozMDEyNDU0NTAsImVtYWlsIjoiYWRyaWFuYWtvamFAa2FtaWNvLmNvbS5iciIsImFwcGxpY2F0aW9uIjozMDAyMjcxMDd9fQ.kWT-R8ZHnxb1VwPfQqATyLGao1sZVdZ-dMjN3MrYvrhSzCCdPNPlhbvB4okzFBSKYouia0q_Wg2ixOPO_C_oTQ"
+pipefy_token = ""
 
 url = "https://api.pipefy.com/graphql"
 
